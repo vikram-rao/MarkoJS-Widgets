@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "lasso-marko"
+  ],
+  "outputDir": "build/static/",
+  "fingerprintsEnabled": false,
+  "urlPrefix": "",
+  "minify": false,
+  "resolveCssUrls": true,
+  "bundlingEnabled": false
+}
